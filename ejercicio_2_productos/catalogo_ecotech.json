@@ -1,0 +1,10 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel Monocristalino Pro",
+        "precio": 180.5,
+        "stock": 15,
+        "potencia_w": 400.0,
+        "eficiencia": 21.5
+    }
+]
